@@ -26,7 +26,8 @@ TMDB dataset on git project folder
 <li>Utilized complex SQL queries to generate inisghts from the cleaned data</li>
 <li>Used advanced SQL functions ex Window functions, CTE’s, Case statements </li>
 </ul>
-![Insight Example](https://github.com/user-attachments/assets/a5d744b3-329c-4a08-893f-bafa33f0c716)
+
+![Insight example](https://github.com/user-attachments/assets/272ee5ac-e8c8-4c34-9c62-583bbc8ab37a)
 
 
 <h1>Data Visualization</h1>
