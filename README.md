@@ -21,13 +21,24 @@ TMDB dataset on git project folder
 ![Keeping ID's in arrays](https://github.com/user-attachments/assets/efe7e09a-e74a-49b1-afdc-9451e4b7aab1)
 ![Normalization](https://github.com/user-attachments/assets/1015fc94-01e8-42fc-b2ef-beb7e05295bb)
 
-<h2>Questions to be answered : </h2>
+<h1>Generating Insights</h1>
 <ul>
-  <li>Each original language and the most popular film in each</li>
-  <li>number of movies for each genre</li>
-  <li>Movie Insights by year </li>
-  <li>Movies Return on investments (ROI)</li>
-  <li>Revenue by amount of genres</li>
+<li>Utilized complex SQL queries to generate inisghts from the cleaned data</li>
+<li>Used advanced SQL functions ex Window functions, CTE’s, Case statements </li>
 </ul>
+![Insight Example](https://github.com/user-attachments/assets/a5d744b3-329c-4a08-893f-bafa33f0c716)
+
+
+<h1>Data Visualization</h1>
+<ul>
+<li>Established a connection between our Database and Microsoft Power BI</li>
+<li>created a dynamic dashboard that is interactive and provides meaningful insights from our data   </li>
+</ul>
+![Dashboard](https://github.com/user-attachments/assets/3fae1367-f492-42d9-918a-023579ccdcec)
+
+
+
+
+
 
 
