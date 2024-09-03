@@ -4,7 +4,8 @@ The main problem that i had to tackle in this internship was that i had never en
 
 <h1>Overview of Project</h1>
 <p>The purpose of this project was to clean the csv file and break down the JSON Arrays in whichever format I thought was best, then i had to import data into MYsql and generate insights that answered multiple questions as well as generate my own creative insights</p>
-![Raw Data](https://github.com/user-attachments/assets/c15f17fd-a158-4eb9-a14c-189298bce889)
+
+![Raw data](https://github.com/user-attachments/assets/a0e17d48-cdb3-4d51-beff-9a8a6c6280a3)
 
 
 <h1>Resources</h1>
@@ -18,8 +19,12 @@ TMDB dataset on git project folder
 <li>Broke down JSON arrays using normalization</li>
 <li>Dropped columns that were not needed</li>
 </ul>
-![Keeping ID's in arrays](https://github.com/user-attachments/assets/efe7e09a-e74a-49b1-afdc-9451e4b7aab1)
-![Normalization](https://github.com/user-attachments/assets/1015fc94-01e8-42fc-b2ef-beb7e05295bb)
+
+![keeping ids only in JSON arrays](https://github.com/user-attachments/assets/464350a4-c28a-4afc-9d53-14061ae9d152)
+
+![Normalizataion](https://github.com/user-attachments/assets/4a1c9337-1200-44fa-b086-37527ecbc34e)
+
+
 
 <h1>Generating Insights</h1>
 <ul>
@@ -35,6 +40,7 @@ TMDB dataset on git project folder
 <li>Established a connection between our Database and Microsoft Power BI</li>
 <li>created a dynamic dashboard that is interactive and provides meaningful insights from our data   </li>
 </ul>
+
 ![Dashboard](https://github.com/user-attachments/assets/3fae1367-f492-42d9-918a-023579ccdcec)
 
 
