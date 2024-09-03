@@ -18,8 +18,8 @@ TMDB dataset on git project folder
 <li>Broke down JSON arrays using normalization</li>
 <li>Dropped columns that were not needed</li>
 </ul>
-![Screenshot 2024-08-20 001325](https://github.com/user-attachments/assets/efe7e09a-e74a-49b1-afdc-9451e4b7aab1)
-![Screenshot 2024-08-20 001500](https://github.com/user-attachments/assets/1015fc94-01e8-42fc-b2ef-beb7e05295bb)
+![Keeping ID's in arrays](https://github.com/user-attachments/assets/efe7e09a-e74a-49b1-afdc-9451e4b7aab1)
+![Normalization](https://github.com/user-attachments/assets/1015fc94-01e8-42fc-b2ef-beb7e05295bb)
 
 <h2>Questions to be answered : </h2>
 <ul>
