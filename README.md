@@ -4,7 +4,7 @@ The main problem that i had to tackle in this internship was that i had never en
 
 <h1>Overview of Project</h1>
 <p>The purpose of this project was to clean the csv file and break down the JSON Arrays in whichever format I thought was best, then i had to import data into MYsql and generate insights that answered multiple questions as well as generate my own creative insights</p>
-![Screenshot 2024-08-19 174933](https://github.com/user-attachments/assets/c15f17fd-a158-4eb9-a14c-189298bce889)
+![Raw Data](https://github.com/user-attachments/assets/c15f17fd-a158-4eb9-a14c-189298bce889)
 
 
 <h1>Resources</h1>
