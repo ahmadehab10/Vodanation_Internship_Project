@@ -1,5 +1,5 @@
 # Vodanation_Internship_Project
-As part of my Vodanation Internship in the data analytics department, specifically CVM Analytics, I was tasked with cleaning a dataset about movies provided by my mentor
+As part of my Vodanation Internship in the data analytics department, specifically CVM Analytics, I was tasked with cleaning a dataset about movies provided by my mentor.<br>
 The main problem that i had to tackle in this internship was that i had never encountered a JSON Array in columns in a dataset before.
 
 <h1>Overview of Project</h1>
