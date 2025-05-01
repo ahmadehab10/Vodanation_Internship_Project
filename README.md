@@ -99,7 +99,8 @@ Based on the insights and findings above, we recommend the content strategy and 
 
 ## Dashboard Preview
 
-![Dashboard](https://github.com/user-attachments/assets/3fae1367-f492-42d9-918a-023579ccdcec)
+![Dashboard Preview](https://github.com/user-attachments/assets/b5c83b2c-a8dc-4d41-99b6-1ed49a70709e)
+
 
 ---
 
